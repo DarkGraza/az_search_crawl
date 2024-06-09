@@ -1,1 +1,2 @@
-# az_search_crawl
+# Selenium Bot for scraping for certain keywords
+
